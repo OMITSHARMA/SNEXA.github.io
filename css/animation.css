@@ -1,0 +1,26 @@
+.services-content .row .col-md-4:nth-child(1) .animation
+{
+	animation-delay:0;
+	-webkit-animation-delay:0;
+	-ms-animation-delay:0;
+	-moz-animation-delay:0;
+	-o-animation-delay:0;
+}
+
+.services-content .row .col-md-4:nth-child(2) .animation
+{
+	animation-delay:0.5s;
+	-webkit-animation-delay:0.5s;
+	-ms-animation-delay:0.5s;
+	-moz-animation-delay:0.5s;
+	-o-animation-delay:0.5s;
+}
+
+.services-content .row .col-md-4:nth-child(3) .animation
+{
+	animation-delay:1s;
+	-webkit-animation-delay:1s;
+	-ms-animation-delay:1s;
+	-moz-animation-delay:1s;
+	-o-animation-delay:1s;
+}
